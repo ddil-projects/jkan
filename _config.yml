@@ -9,7 +9,7 @@ jkan_theme: Default
 
 # Authentication
 github_client_id: df3fdb80e25ff833a4b1
-gatekeeper_host: https://git.heroku.com/ddil-data.git
+gatekeeper_host: https://ddil-data.herokuapp.com
 
 # Dataset schema
 schema: default
