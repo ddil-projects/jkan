@@ -1,21 +1,18 @@
 ---
 schema: default
-title: Sample dataset
+title: Housing Data Sets
 organization: Sample Department
-notes: This is an example dataset that comes with a new installation of JKAN
+notes: This collection of data sets will include any data sourced referent to housing matters, including but not limited to:
 resources:
-  - name: Air Monitoring Stations CSV
+  - name: HUD CSV
     url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv'
     format: csv
-  - name: Air Monitoring Stations Shapefile
-    url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.zip'
+  - name: Distance 
+    url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv'
     format: shp
-  - name: Air Monitoring Stations GeoService
-    url: 'https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Air_Monitoring_Stations/FeatureServer/0/query'
-    format: api
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: ''
 category:
   - Education
-maintainer: Tim Wisniewski
-maintainer_email: tim@timwis.com
+maintainer: ''
+maintainer_email: ''
 ---
