@@ -1,11 +1,11 @@
 title: DDIL
 greeting: Welcome to DDIL's open data portal!
-description: We hope these data aggregated at different granularities may support or motivate existing and new collaborations towards achieving community level impact.
+description: We hope these data aggregated at different granularities may support or motivate existing and new collaborations towards achieving community-level impact.
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Slate
+jkan_theme: Lumen
 
 # Authentication
 github_client_id: df3fdb80e25ff833a4b1
