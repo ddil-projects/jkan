@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Housing Data Sets
-organization: Sample Department
+#organization: Sample Department
 notes: This collection of data sets will include any data sourced referent to housing matters, including but not limited to
 resources:
   - name: Location of Low Income Housing Tax Credit Builds in Delaware
@@ -11,8 +11,8 @@ resources:
     url: 'https://github.com/ddil-projects/jkan/blob/gh-pages/ddil-data/housing_insecurity/de_dist_civil.zip'
     format: zip
 license: ''
-category:
-  - Education
+#category:
+#  - Education
 maintainer: 'DDIL'
 maintainer_email: 'ddil-projects@ddil.ai'
 ---
